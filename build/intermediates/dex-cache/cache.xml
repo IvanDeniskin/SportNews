@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\develop\Test\FragmentTest\SportArticles\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\develop\Test\FragmentTest\SportArticles\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e247df9444ba05f54c17d321336e5439742b8564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IVAN\.android\build-cache\74984b9e2e62f6f5d969a5a45de7507a817437d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="C:\develop\Test\FragmentTest\SportArticles\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9aa035553664164eda7b304a585dcf30904a3bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\develop\Test\FragmentTest\SportArticles\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b162225dfa4588a6336450c4f31ceb50c4f8400">
+        <dex dex="C:\develop\Test\FragmentTest\SportArticles\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b39bcbb1ea7388ac414123ea2f97532da29aab2\classes.dex" />
+    </item>
+
+</items>

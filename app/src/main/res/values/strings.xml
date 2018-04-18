@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Новости спорта</string>
+    <string name="football">Футбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="volleyball">Волейбол</string>
+    <string name="cybersport">Киберспорт</string>
+    <string name="error">Ошибка запроса</string>
+    <string name="error_server">Ошибка подключения к серверу</string>
+    <string name="error_timeout">Истекло время ожидания ответа от сервера</string>
+    <string name="error_auth">Ошибка авторизации</string>
+    <string name="error_network">Ошибка сети</string>
+    <string name="error_parse">Некорректный ответ от сервера</string>
+</resources>
